@@ -7,14 +7,14 @@ Lesson 1 - Iterations
 
 Binary Gap - https://app.codility.com/demo/results/trainingQ3YRAC-J96/
 
-
+<br>
 Lesson 2 - Arrays
 
 OddOccurrencesInArray - https://app.codility.com/demo/results/trainingNNT46N-BBN/
 
 CyclicRotation - https://app.codility.com/demo/results/trainingG7XV9P-D92/
 
-
+<br>
 Lesson 3 - Time Complexity
 
 FrogJmp - https://app.codility.com/demo/results/trainingGSPNXB-52D/
@@ -23,6 +23,7 @@ PermMissingElem - https://app.codility.com/demo/results/trainingZPUBHK-ECK/
 
 TapeEquilibrium - https://app.codility.com/demo/results/trainingK52F76-H5B/
 
+<br>
 Lesson 4 - Couting Elements
 
 
